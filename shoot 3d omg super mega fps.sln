@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shoot 3d omg super mega fps", "shoot 3d omg super mega fps.csproj", "{C6DEDCA4-1A54-7954-9C70-58688659B437}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{635EA77F-2B1F-E0C2-A96E-2DA7F5750323}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C6DEDCA4-1A54-7954-9C70-58688659B437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C6DEDCA4-1A54-7954-9C70-58688659B437}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C6DEDCA4-1A54-7954-9C70-58688659B437}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C6DEDCA4-1A54-7954-9C70-58688659B437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{635EA77F-2B1F-E0C2-A96E-2DA7F5750323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635EA77F-2B1F-E0C2-A96E-2DA7F5750323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635EA77F-2B1F-E0C2-A96E-2DA7F5750323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635EA77F-2B1F-E0C2-A96E-2DA7F5750323}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
