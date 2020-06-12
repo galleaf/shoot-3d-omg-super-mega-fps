@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ххх\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ххх\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_shoot 3d omg super mega fps.-1611932172.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ххх\Documents\shoot 3d omg super mega fps" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="BrokenVector" t="Include">
+          <e p="FreeLowPolyPack" t="Include">
+            <e p="readme.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Free Low Poly Desert Pack" t="Include">
+          <e p="Materials" t="Include">
+            <e p="Shaders" t="Include">
+              <e p="Vertex_Color_Basic.shader" t="Include" />
+              <e p="Vertex_Color_Unlit.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Free!Low_Poly_Boxy-Stylized_Trees#0" t="Include">
+          <e p="readme.txt" t="Include" />
+        </e>
+        <e p="LowpolyCarsPack" t="Include">
+          <e p="Script" t="Include">
+            <e p="SimpleCarController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Rotate.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="shoot 3d omg super mega fps.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
